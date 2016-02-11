@@ -4,7 +4,8 @@ This is a simple [Standard ML][SML] factorial program. It demonstrates using [ml
 [Docker] to produce a statically-linked executable. The executable should run on
 any amd64 system with glibc.
 
-You can download the Docker image and build the program with:
+First, install [Docker]. Next, download the mlton Docker image and build the
+program with:
 
     make
     
