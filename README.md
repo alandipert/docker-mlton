@@ -12,6 +12,7 @@ mlton can be used to produce standalone executables for Linux systems. See the
   [mlton docker environment gist](https://gist.github.com/mboeh/d23ba889dfd48d07efff)
   on which this project is based.
   
+[mlton]: http://mlton.org/
 [Docker]: https://www.docker.com/
 [dockerhub]: https://hub.docker.com/r/alandipert/mlton/
 [SML]: https://en.wikipedia.org/wiki/Standard_ML
