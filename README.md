@@ -1,7 +1,7 @@
 # docker-mlton
 
 This is a [Docker] image, [available publicly on Docker Hub][dockerhub], for the
-[mlton] [Standard ML][SML] compiler.
+[mlton][mlton] [Standard ML][SML] compiler.
 
 mlton can be used to produce standalone executables for Linux systems. See the
 [example project](example-project/) directory for a simple example project.
