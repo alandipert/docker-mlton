@@ -1,6 +1,6 @@
 # mlton factorial example
 
-This is a simple [Standard ML][SML] factorial program. It demonstrates using [mlton] via
+This is a simple [Standard ML][SML] factorial program. It demonstrates using [MLton] via
 [Docker] to produce a statically-linked executable. The executable should run on
 any amd64 system with glibc.
 
@@ -15,4 +15,4 @@ Then, you can run the executable:
 
 [SML]: https://en.wikipedia.org/wiki/Standard_ML
 [Docker]: https://www.docker.com/
-[mlton]: http://mlton.org/
+[MLton]: http://mlton.org/
